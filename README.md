@@ -1,62 +1,72 @@
-# Hi there! I'm [ชื่อของคุณ] 👋
+<div align="center">
 
-### 🚀 Aspiring Full-Stack & Game Developer | IT Student at SPU (SIT)
+# Hello! I'm Nuttapon 👋
+### Aspiring Full-Stack & Game Developer | IT Student at SPU
 
-I'm a developer passionate about building seamless web applications and immersive game experiences. Currently focusing on Full-Stack development and exploring the world of Cybersecurity and IT Auditing.
+I'm passionate about building seamless web applications and immersive game experiences.  
+Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 
----
-
-### 💫 About Me
-- 🎓 **Education:** Information Technology at Sripatum University (SIT)
-- 🛠️ **Current Focus:** Developing Web Apps with Django & React
-- 🎮 **Game Dev:** Creating FPS Viewmodels and mechanics in Roblox (Luau & Blender)
-- 🛡️ **Interests:** IT Auditing (COBIT 2019, ISO/IEC 27001) and Cybersecurity
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💫 About me
 
-**Frontend & Web Development**
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+- 🎓 **IT Student** at Sripatum University (SIT)
+- 🛠️ Developed **Baan Oongtao Pet Clinic System** using Django & SQL Server
+- 🎮 Creating **Roblox mechanics** and **FPS Viewmodels** with Luau & Blender
+- 🛡️ Studying **COBIT 2019** and **ISO/IEC 27001** standards
+- 🎨 Love **Minimalist Design** and clean aesthetics
 
-**Backend & Database**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🛠️ Tech Stack
 
-**Game Development & Design**
-![Roblox](https://img.shields.io/badge/Roblox-%232E3037.svg?style=for-the-badge&logo=roblox&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
-
----
-
-### 📂 Highlight Projects
-
-- **🐾 Baan Oongtao Pet Clinic Management System** *Full-stack management system built with Django and SQL Server, featuring a comprehensive 14-table database schema.*
-- **⏲️ Momentum Timer** *A minimalist PWA task-countdown timer designed for productivity with a clean UX.*
-- **🖼️ Creative Developer Image Gallery** *A personal web gallery built with React to showcase digital artwork and assets.*
+<div align="left">
+<img src="https://img.shields.io/badge/react-%2320232d.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Roblox-%232E3037.svg?style=flat&logo=roblox&logoColor=white" alt="Roblox" />
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ชื่อGitHubของคุณ]&show_icons=true&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&icon_color=ffb6c1&text_color=666" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ชื่อGitHubของคุณ]&layout=compact&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" />
-</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=[ชื่อGitHubของคุณ]&show_icons=true&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&icon_color=ffb6c1&text_color=666" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ชื่อGitHubของคุณ]&layout=compact&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ชื่อGitHubของคุณ]&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" />
-</p>
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 [Your Email]
-- 🌐 [Portfolio Website]
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[ชื่อGitHubของคุณ]&label=Profile%20views&color=ff7f50&style=flat" alt="Views" />
-</p>
+### 📂 Top Repositories
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=[ชื่อGitHubของคุณ]&repo=Baan-Oongtao-Clinic&theme=rose_pine&title_color=ff7f50" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=[ชื่อGitHubของคุณ]&repo=Momentum-Timer&theme=rose_pine&title_color=ff7f50" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/pooky.pu.9)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+<img src="https://komarev.com/ghpvc/?username=[ชื่อGitHubของคุณ]&label=Profile%20views&color=ff7f50&style=flat" alt="Views" />
+
+</div>
