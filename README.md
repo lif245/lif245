@@ -36,7 +36,7 @@ Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=[ชื่อGitHubของคุณ]&show_icons=true&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&icon_color=ffb6c1&text_color=666" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=[https://github.com/lif245]&show_icons=true&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&icon_color=ffb6c1&text_color=666" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ชื่อGitHubของคุณ]&layout=compact&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" width="100%" />
