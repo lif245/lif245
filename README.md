@@ -65,6 +65,6 @@ Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/pooky.pu.9)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
-<img src="https://komarev.com/ghpvc/?username=[ชื่อGitHubของคุณ]&label=Profile%20views&color=ff7f50&style=flat" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=lif245&label=Profile%20views&color=ff7f50&style=flat" alt="Views" />
 
 </div>
