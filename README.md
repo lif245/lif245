@@ -7,7 +7,9 @@ I'm passionate about building seamless web applications and immersive game exper
 Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=100&lines=>+Lif+.;>+System+Ready_;" alt="Typing Sign" />
+</div>
 ---
 
 ### 💫 About me
