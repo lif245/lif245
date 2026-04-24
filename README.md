@@ -49,7 +49,9 @@ I'm a developer passionate about building seamless web applications and immersiv
 </p>
 
 ---
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ชื่อGitHubของคุณ]&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" />
+</p>
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📧 [Your Email]
