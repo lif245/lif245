@@ -15,7 +15,7 @@ Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 - 🎓 **IT Student** at Sripatum University (SIT)
 - 🛠️ Developed **Baan Oongtao Pet Clinic System** using Django & SQL Server
 - 🎮 Creating **Roblox mechanics** and **FPS Viewmodels** with Luau & Blender
-- 🛡️ Studying **COBIT 2019** and **ISO/IEC 27001** standards
+- 🛡️ Studying **Audit** standards
 - 🎨 Love **Minimalist Design** and clean aesthetics
 
 ### 🛠️ Tech Stack
@@ -36,10 +36,10 @@ Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=[https://github.com/lif245]&show_icons=true&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&icon_color=ffb6c1&text_color=666" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/lif245&show_icons=true&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&icon_color=ffb6c1&text_color=666" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ชื่อGitHubของคุณ]&layout=compact&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/lif245&layout=compact&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" width="100%" />
     </td>
   </tr>
 </table>
@@ -51,10 +51,10 @@ Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=[ชื่อGitHubของคุณ]&repo=Baan-Oongtao-Clinic&theme=rose_pine&title_color=ff7f50" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/lif245&repo=Baan-Oongtao-Clinic&theme=rose_pine&title_color=ff7f50" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=[ชื่อGitHubของคุณ]&repo=Momentum-Timer&theme=rose_pine&title_color=ff7f50" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/lif245&repo=Momentum-Timer&theme=rose_pine&title_color=ff7f50" width="100%" />
     </td>
   </tr>
 </table>
