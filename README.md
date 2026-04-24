@@ -1,24 +1,23 @@
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=100&lines=>+Lif+.;>+System+Ready_;" alt="Typing Sign" />
+</div>
+
 <div align="center">
 
 # Hello! I'm Nuttapon 👋
 ### Aspiring Full-Stack & Game Developer | IT Student at SPU
 
-I'm passionate about building seamless web applications and immersive game experiences.  
-Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=100&lines=>+Lif+.;>+System+Ready_;" alt="Typing Sign" />
-</div>
+
+
 ---
 
 ### 💫 About me
 
 - 🎓 **IT Student** at Sripatum University (SIT)
-- 🛠️ Developed **Baan Oongtao Pet Clinic System** using Django & SQL Server
-- 🎮 Creating **Roblox mechanics** and **FPS Viewmodels** with Luau & Blender
-- 🛡️ Studying **Audit** standards
-- 🎨 Love **Minimalist Design** and clean aesthetics
+
+
 
 ### 🛠️ Tech Stack
 
@@ -26,9 +25,6 @@ Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 <img src="https://img.shields.io/badge/react-%2320232d.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Roblox-%232E3037.svg?style=flat&logo=roblox&logoColor=white" alt="Roblox" />
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender" />
 </div>
 
 ---
@@ -53,7 +49,7 @@ Current focus: **Full-Stack Development** & **IT Auditing/Cybersecurity**.
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lif245&repo=ใส่ชื่อRepoที่1ตรงนี้&theme=rose_pine&title_color=ff7f50" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lif245&repo=BoardGameAudit-&theme=rose_pine&title_color=ff7f50" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lif245&repo=ใส่ชื่อRepoที่2ตรงนี้&theme=rose_pine&title_color=ff7f50" width="100%" />
