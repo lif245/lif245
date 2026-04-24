@@ -1,62 +1,60 @@
-# ✨ Hi, I'm Nuttapon
-### 🚀 Aspiring Full-Stack & Game Developer | IT Student at Sripatum University (SPU)
+# Hi there! I'm [ชื่อของคุณ] 👋
 
-![Minimalist Banner](https://raw.githubusercontent.com/lif245/BoardGameAudit-/main/public/assets/profile_banner_coral.png)
+### 🚀 Aspiring Full-Stack & Game Developer | IT Student at SPU (SIT)
+
+I'm a developer passionate about building seamless web applications and immersive game experiences. Currently focusing on Full-Stack development and exploring the world of Cybersecurity and IT Auditing.
 
 ---
 
-### 🖋️ About Me
-*   🔭 **Building** web applications and immersive game environments.
-*   🎮 **Specializing** in the Roblox ecosystem using Luau and Blender.
-*   🛡️ **Exploring** IT Auditing standards (COBIT 2019) and Cybersecurity (ISO/IEC 27001).
-*   🌱 **Driven** by clean code and minimalist design aesthetics.
+### 💫 About Me
+- 🎓 **Education:** Information Technology at Sripatum University (SIT)
+- 🛠️ **Current Focus:** Developing Web Apps with Django & React
+- 🎮 **Game Dev:** Creating FPS Viewmodels and mechanics in Roblox (Luau & Blender)
+- 🛡️ **Interests:** IT Auditing (COBIT 2019, ISO/IEC 27001) and Cybersecurity
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**🌐 Web Development**
+**Frontend & Web Development**
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+**Backend & Database**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**🎮 Game Development & Design**
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=Roblox&logoColor=white)
+**Game Development & Design**
+![Roblox](https://img.shields.io/badge/Roblox-%232E3037.svg?style=for-the-badge&logo=roblox&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-**🗄️ Database & Standards**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![COBIT](https://img.shields.io/badge/COBIT%202019-Coral?style=for-the-badge&logo=governance&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2F0EC%2027001-Pink?style=for-the-badge&logo=security&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
 ---
 
-### 💎 Highlight Projects
+### 📂 Highlight Projects
 
-#### 🐾 [Baan Oongtao Pet Clinic Management System](https://github.com/lif245)
-> A professional clinic management platform built with **Django** and **SQL Server**. Streamlines clinical workflows and medical record management with a focus on data integrity.
-
-#### ⏳ [Momentum Timer](https://github.com/lif245)
-> A minimalist **PWA** task-countdown application. Designed to boost productivity through a clean, distraction-free interface.
-
-#### 🖼️ [Creative Developer Image Gallery](https://github.com/lif245)
-> A highly responsive image showcase built with **React**. Features smooth transitions and a grid-based minimalist layout.
+- **🐾 Baan Oongtao Pet Clinic Management System** *Full-stack management system built with Django and SQL Server, featuring a comprehensive 14-table database schema.*
+- **⏲️ Momentum Timer** *A minimalist PWA task-countdown timer designed for productivity with a clean UX.*
+- **🖼️ Creative Developer Image Gallery** *A personal web gallery built with React to showcase digital artwork and assets.*
 
 ---
 
-### 📈 Tactical Data
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lif245&show_icons=true&title_color=ff7f50&icon_color=ff7f50&text_color=555&bg_color=fffafa&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lif245&layout=compact&title_color=ff7f50&text_color=555&bg_color=fffafa&hide_border=true" height="150" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ชื่อGitHubของคุณ]&show_icons=true&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&icon_color=ffb6c1&text_color=666" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ชื่อGitHubของคุณ]&layout=compact&theme=rose_pine&bg_color=ffffff00&title_color=ff7f50&text_color=666" />
 </p>
 
 ---
 
-### 📫 Reach Me
-*   **GitHub:** [@lif245](https://github.com/lif245)
-*   **Location:** Bangkok, Thailand 🇹🇭
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 [Your Email]
+- 🌐 [Portfolio Website]
 
----
-*Stay creative. Stay minimal.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[ชื่อGitHubของคุณ]&label=Profile%20views&color=ff7f50&style=flat" alt="Views" />
+</p>
